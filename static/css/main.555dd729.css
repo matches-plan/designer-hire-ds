@@ -568,9 +568,6 @@ video {
 .flex {
   display: flex;
 }
-.contents {
-  display: contents;
-}
 .h-2 {
   height: 0.5rem;
 }
@@ -815,10 +812,6 @@ video {
 .hover\:bg-gray-20:hover {
   background-color: rgba(221, 222, 227, 1);
 }
-.hover\:bg-green-500:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(34 197 94 / var(--tw-bg-opacity));
-}
 .hover\:bg-primary-10:hover {
   background-color: rgba(246, 244, 255, 1);
 }
@@ -847,4 +840,4 @@ video {
   color: rgba(165, 166, 171, 1);
 }
 
-/*# sourceMappingURL=main.b6215a8b.css.map*/
+/*# sourceMappingURL=main.555dd729.css.map*/
